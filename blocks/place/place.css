@@ -3,14 +3,14 @@
     margin-bottom: 48px;
     display: flex;
     flex-direction: row;
-    flex-wrap: wrap;
     align-items: center;
     justify-content: center;
 }
 
 @media screen and (max-width: 1024px){
     .place{
-        width: 928px;
+        width: auto;
+        max-width: 928px;
     }
 }
 
