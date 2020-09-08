@@ -13,13 +13,13 @@
     }
 }
 
-@media screen and (max-width: 768px){
+@media screen and (max-width: 785px){
     .lead{
         width: 768px;
     }
 }
 
-@media screen and (max-width: 320px){
+@media screen and (max-width: 767px){
     .lead{
         width: 320px;
     }

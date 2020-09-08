@@ -11,14 +11,14 @@
     }
 }
 
-@media screen and (max-width: 768px){
+@media screen and (max-width: 785px){
     .intro{
         margin-right: 0;
         width: 720px;
     }
 }
 
-@media screen and (max-width: 320px){
+@media screen and (max-width: 767px){
     .intro{
         width: 288px;
         margin-bottom: 64px;
