@@ -2,25 +2,25 @@
     width: 984px;
     margin-bottom: 48px;
     display: flex;
-    flex-direction: row;
+    flex-direction: column;
     align-items: center;
     justify-content: center;
 }
 
-@media screen and (max-width: 1024px){
+@media screen and (max-width: 1200px){
     .place{
         width: auto;
         max-width: 928px;
     }
 }
 
-@media screen and (max-width: 785px){
+@media screen and (max-width: 1050px){
     .place{
         width: 720px;
     }
 }
 
-@media screen and (max-width: 767px){
+@media screen and (max-width: 790px){
     .place{
         width: 320px;
     }

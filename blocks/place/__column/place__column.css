@@ -9,10 +9,9 @@ place__column:first-of-type{
     align-self: start;
 }
 
-@media screen and (max-width: 767px){
+@media screen and (max-width: 790px){
     .place__column{
         align-items: center;
         width: 320px;
-        overflow: hidden;
     }
 }

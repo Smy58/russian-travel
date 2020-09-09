@@ -6,20 +6,20 @@
     align-items: center;
 }
 
-@media screen and (max-width: 1024px){
+@media screen and (max-width: 1200px){
     .lead{
         max-width: 928px;
         width: auto;
     }
 }
 
-@media screen and (max-width: 785px){
+@media screen and (max-width: 1050px){
     .lead{
         width: 768px;
     }
 }
 
-@media screen and (max-width: 767px){
+@media screen and (max-width: 790px){
     .lead{
         width: 320px;
     }
