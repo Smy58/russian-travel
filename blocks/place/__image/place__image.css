@@ -11,7 +11,7 @@
     }
 }
 
-@media screen and (max-width: 1050px){
+@media screen and (max-width: 950px){
     .place__image{
         width: 340px;
         height: 340px;
@@ -19,7 +19,7 @@
     }
 }
 
-@media screen and (max-width: 790px){
+@media screen and (max-width: 767px){
     .place__image{
         width: 320px;
         height: 320px;
